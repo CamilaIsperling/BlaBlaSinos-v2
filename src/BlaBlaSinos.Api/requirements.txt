@@ -1,0 +1,5 @@
+Django>=4.2,<6
+djangorestframework>=3.14
+django-cors-headers>=4.4
+mssql-django>=1.5
+pyodbc>=5.1
